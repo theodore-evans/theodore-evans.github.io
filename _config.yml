@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  profile:
+    output: true
+    permalink: /profile/:path/
