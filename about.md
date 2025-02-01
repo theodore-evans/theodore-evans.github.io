@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome! Here's my professional information:
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- [Experience](/profile/experience)
+- [Education](/profile/education)
+- [Publications](/profile/publications)
 
 ### Contact me
 
