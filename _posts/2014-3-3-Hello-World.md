@@ -1,10 +1,29 @@
 ---
-layout: post
-title: You're up and running!
+title: Getting started with Rust web development
+date: 2024-03-15
+tags: 
+  - rust
+  - web
+  - rocket
+description: A beginner's guide to building web applications with Rust and the Rocket framework
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Rust is becoming increasingly popular for web development, thanks to its performance, safety, and growing ecosystem.
 
-![_config.yml]({{ site.baseurl }}/assets/images/config.png)
+## Why Rust for web development?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Here are some key advantages:
+
+- Memory safety without garbage collection
+- Excellent performance
+- Rich type system
+- Growing ecosystem of web frameworks
+
+## Getting started with Rocket
+
+First, add Rocket to your `Cargo.toml`:
+
+```toml
+[dependencies]
+rocket = '0.5.0'
+```
