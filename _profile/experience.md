@@ -53,7 +53,7 @@ Research focus on transparency and trustworthiness in medical AI systems:
 - Designed vendor-facing API for computational pathology platform
 - Developed and maintained authx infrastructure for on-premise HPC Kubernetes cluster
 
-## [Formlabs GmbH](https://formlabs.com) | Berlin, Germany
+## [Formlabs GmbH.](https://formlabs.com) | Berlin, Germany
 <img src="/assets/images/formlabs-gmbh-icon.svg" alt="Formlabs" width="48" height="48" style="float: right; margin-left: 10px;" />
 
 ### Lead Support Engineer
@@ -74,7 +74,7 @@ Managed UK and English-speaking EMEA market development:
 - Developed additive manufacturing solutions for dental and engineering sectors
 - Facilitated product development feedback from enterprise clients
 
-## [Precision Acoustics Ltd](https://www.acoustics.co.uk) | Dorchester, UK
+## [Precision Acoustics Ltd.](https://www.acoustics.co.uk) | Dorchester, UK
 <img src="/assets/images/precision-acoustics-ltd-icon.svg" alt="Precision Acoustics" width="48" height="48" style="float: right; margin-left: 10px;" />
 
 ### Research Physicist
